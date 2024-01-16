@@ -10,3 +10,4 @@ CODE:
 > myMean <- function(assignment2) { return(sum(assignment2)/length(assignment2)) }
 > result <- myMean(assignment2)
 > print(result)
+[1] 19.25
